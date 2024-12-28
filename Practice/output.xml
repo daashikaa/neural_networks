@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<graph>
+	<vertex>B</vertex>
+	<vertex>A</vertex>
+	<vertex>C</vertex>
+	<arc>
+		<from>B</from>
+		<to>A</to>
+		<order>1</order>
+	</arc>
+	<arc>
+		<from>C</from>
+		<to>A</to>
+		<order>2</order>
+	</arc>
+</graph>
